@@ -1,0 +1,16 @@
+
+.block{
+    margin: 0 auto;
+
+    color: rgba(85, 0, 165, 0.726);
+    height: 1000px;
+}
+.block_container{
+    margin: 0 auto;
+    
+}
+.block_background{
+    padding: 70px;
+   background: url(/img/invoker.jpg) repeat-y right / 200px ,url(/img/invoker.jpg) repeat-y 0 0 / 200px ,url(/img/invoker.jpg) repeat-x bottom / 200px ,url(/img/invoker.jpg) repeat-x top / 200px , url(/img/tokyo-ghoul-tokyo-ghoul-re-arima-kishou-kaneki-ken-zxc-hd-wallpaper-preview.jpg) no-repeat center   rgba(0, 128, 0, 0.486);
+   height: 1000px;
+}
